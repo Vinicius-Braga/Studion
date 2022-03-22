@@ -1,0 +1,29 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "\u001bHHomepage for Studion Eventos",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinicius-Braga/studion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[C\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Vinicius Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinicius-Braga/studion/issues"
+  },
+  "homepage": "https://github.com/Vinicius-Braga/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
